@@ -1,2 +1,2 @@
-# bickdutt
-TDDC91
+# TDDC91
+**D**atastrukturer och **alg**oritmer
